@@ -1,0 +1,11 @@
+one:
+  name: MyString
+  permalink: MyString
+  title: MyString
+  content: MyText
+
+two:
+  name: MyString
+  permalink: MyString
+  title: MyString
+  content: MyText

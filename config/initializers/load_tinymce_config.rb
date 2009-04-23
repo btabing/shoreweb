@@ -1,0 +1,1 @@
+TINYMCE_CONFIG = YAML.load_file("#{RAILS_ROOT}/config/tinymce.yml")[RAILS_ENV]
